@@ -1,0 +1,7 @@
+/**
+ * Dictionary
+ */
+public class Dictionary {
+
+    
+}
